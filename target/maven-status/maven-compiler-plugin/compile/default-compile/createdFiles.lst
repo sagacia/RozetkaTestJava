@@ -1,0 +1,8 @@
+Pages\MainPage.class
+Pages\ProductPage.class
+Pages\CartPopUpPage.class
+Steps\SearchAddToCartSteps.class
+WebElementBlocks\URLs.class
+WebSettings\WebDriverSetup.class
+Models\ProductModel.class
+Pages\SearchPage.class
